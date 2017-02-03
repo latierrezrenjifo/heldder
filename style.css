@@ -108,7 +108,7 @@ body
 }
 
 .content {
-    position: absolute;
+    position: relative;
   padding-bottom: 30px;
 }
 
