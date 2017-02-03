@@ -115,6 +115,7 @@ body
 
 .content h2 {
   text-align: center;
+  margin-left: 250px;
   font-size: 106px;
   font-family: 'Caveat', sans-serif;
   color: #fff;
@@ -125,7 +126,7 @@ body
   font-size: 30px;
   font-weight: 300;
   line-height: auto;
-  margin: 0 0 100px;
+  margin-left: 250px
   text-align: justify;
   letter-spacing: auto;
   color: #222222;
