@@ -3,7 +3,7 @@
   margin-left: -6px;
    padding: 0;
     width: 100%; /*To place MenuBar across horizontally*/   
-    position: fixed; /*Makes MenuBar fixed while scrolling up and down*/
+    position: absolute; /*Makes MenuBar fixed while scrolling up and down*/
     z-index: 2000;
 }
 
