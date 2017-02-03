@@ -103,7 +103,7 @@ body
 }
 
 .panel:target{
-  margin-top: -37.9%;
+  margin-top: 0%;
   background-color:#288ad2;
 }
 
