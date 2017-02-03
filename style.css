@@ -94,7 +94,7 @@ body
   height: 136.5%;
   overflow-y: auto;
   overflow-x: hidden;
-  margin-left: -100%;
+  margin-left: -150%;
   position: absolute;
   z-index: 2;
    -webkit-transition: all .8s ease-in-out; /*Safari and Chrome*/
