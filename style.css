@@ -1,6 +1,6 @@
 .ca-menu{
-    top:-15px; /*Allows MenuBar to be placed on the top of the page*/
-    left: 35px;
+    margin: 0;
+    padding: 0;
     width: 100%; /*To place MenuBar across horizontally*/   
     position:fixed; /*Makes MenuBar fixed while scrolling up and down*/
 }
